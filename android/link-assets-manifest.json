@@ -1,0 +1,77 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Overpass-Black.ttf",
+      "sha1": "0195b73ce476f05dd9421de16d9f9fd2109d463e"
+    },
+    {
+      "path": "assets/fonts/Overpass-BlackItalic.ttf",
+      "sha1": "63c9cd5d08ed32a5be556ae63789c29efc8ccb7f"
+    },
+    {
+      "path": "assets/fonts/Overpass-Bold.ttf",
+      "sha1": "e420e1174dd8cda693ffd247d31ae6f3bd1681b7"
+    },
+    {
+      "path": "assets/fonts/Overpass-BoldItalic.ttf",
+      "sha1": "6960eba5a57845edc9f4859bc40cf9bcb482f78e"
+    },
+    {
+      "path": "assets/fonts/Overpass-ExtraBold.ttf",
+      "sha1": "16f7d756cbd0bb26643eed50bc9f4052268bb9d6"
+    },
+    {
+      "path": "assets/fonts/Overpass-ExtraBoldItalic.ttf",
+      "sha1": "49531bfe17e80a4e82bd6f451bb10092a05ebe2b"
+    },
+    {
+      "path": "assets/fonts/Overpass-ExtraLight.ttf",
+      "sha1": "f4a466c00975961894636b410bc518c16c348d7d"
+    },
+    {
+      "path": "assets/fonts/Overpass-ExtraLightItalic.ttf",
+      "sha1": "418ac45b6cfcedad9531119614046cd2e92887f8"
+    },
+    {
+      "path": "assets/fonts/Overpass-Italic.ttf",
+      "sha1": "c24d68be02e7337ab604978fb32c28ef1b25aca2"
+    },
+    {
+      "path": "assets/fonts/Overpass-Light.ttf",
+      "sha1": "52468851c02639791989b60d4b7f0fea21215081"
+    },
+    {
+      "path": "assets/fonts/Overpass-LightItalic.ttf",
+      "sha1": "5695bfc7b75a4aaa26f8c62f66c4d0acaa41772e"
+    },
+    {
+      "path": "assets/fonts/Overpass-Medium.ttf",
+      "sha1": "fecb003e384b102093e529d6e0de15e2c1d314ea"
+    },
+    {
+      "path": "assets/fonts/Overpass-MediumItalic.ttf",
+      "sha1": "7fe3c6a2b81571105ec0d757975da03f55d99761"
+    },
+    {
+      "path": "assets/fonts/Overpass-Regular.ttf",
+      "sha1": "0dab6623885d01676c91a370c6d450b6cc9dce9b"
+    },
+    {
+      "path": "assets/fonts/Overpass-SemiBold.ttf",
+      "sha1": "5952fd0cbfae82d8f9be0a9a9c10966ca19aa2cf"
+    },
+    {
+      "path": "assets/fonts/Overpass-SemiBoldItalic.ttf",
+      "sha1": "2d6633b8632e2211b7d21d55511ca30141d5d1d3"
+    },
+    {
+      "path": "assets/fonts/Overpass-Thin.ttf",
+      "sha1": "c980d3f0238678fb30d73fc63aef7ff49a1ae6ce"
+    },
+    {
+      "path": "assets/fonts/Overpass-ThinItalic.ttf",
+      "sha1": "33f0359f663bf45b168770ac9229356b5b736784"
+    }
+  ]
+}

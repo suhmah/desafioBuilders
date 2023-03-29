@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1680106922949" clover="3.2.0">
+  <project timestamp="1680106922949" name="All files">
+    <metrics statements="253" coveredstatements="253" conditionals="251" coveredconditionals="250" methods="46" coveredmethods="46" elements="550" coveredelements="549" complexity="0" loc="253" ncloc="253" packages="25" files="93" classes="93"/>
+    <package name="assets">
+      <metrics statements="62" coveredstatements="62" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="blizzard-middle.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/blizzard-middle.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="9" type="stmt"/>
+      </file>
+      <file name="blizzard-night.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/blizzard-night.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="blizzard.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/blizzard.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="cloud.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/cloud.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="9" type="stmt"/>
+      </file>
+      <file name="drop-miniature.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/drop-miniature.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+      </file>
+      <file name="fog-middle.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/fog-middle.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="fog-night.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/fog-night.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="fog.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/fog.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="freezing-heavy-raining-middle.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/freezing-heavy-raining-middle.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="freezing-heavy-raining-night.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/freezing-heavy-raining-night.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="freezing-heavy-raining.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/freezing-heavy-raining.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="freezing-light-rain-middle.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/freezing-light-rain-middle.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="freezing-light-rain-night.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/freezing-light-rain-night.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="freezing-light-rain.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/freezing-light-rain.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="freezing-raining-middle.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/freezing-raining-middle.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="freezing-raining-night.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/freezing-raining-night.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="freezing-raining.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/freezing-raining.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="hailstone-middle.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/hailstone-middle.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="hailstone-night.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/hailstone-night.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="hailstone.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/hailstone.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="heavy-raining-and-thunder-middle.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/heavy-raining-and-thunder-middle.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="heavy-raining-and-thunder-night.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/heavy-raining-and-thunder-night.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="heavy-raining-and-thunder.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/heavy-raining-and-thunder.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="heavy-raining-middle.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/heavy-raining-middle.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="heavy-raining-night.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/heavy-raining-night.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="heavy-raining.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/heavy-raining.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="icy-fog-middle.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/icy-fog-middle.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="icy-fog-night.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/icy-fog-night.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="icy-fog.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/icy-fog.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="light-rain-middle.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/light-rain-middle.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="light-rain-night.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/light-rain-night.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="light-rain.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/light-rain.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="mid-snow-fast-winds.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/mid-snow-fast-winds.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="night.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/night.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="raining-and-thunder.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/raining-and-thunder.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="raining-middle.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/raining-middle.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="raining-night.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/raining-night.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="raining.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/raining.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="sand-dust-cloud.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/sand-dust-cloud.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="sand-dust-whirls.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/sand-dust-whirls.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="snow-heavy-raining-middle.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/snow-heavy-raining-middle.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="snow-heavy-raining-night.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/snow-heavy-raining-night.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="snow-heavy-raining.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/snow-heavy-raining.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="snow-light-rain-middle.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/snow-light-rain-middle.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="snow-light-rain-night.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/snow-light-rain-night.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="snow-light-rain.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/snow-light-rain.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="snow-with-thunder.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/snow-with-thunder.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="snow.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/snow.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="snowing-middle.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/snowing-middle.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="snowing-night.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/snowing-night.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="snowing.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/snowing.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="squalls.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/squalls.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="sun.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/sun.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="thunder-middle.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/thunder-middle.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="thunder-night.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/thunder-night.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="thunder.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/thunder.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="tornado.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/tornado.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="volcanic-ash-cloud.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/volcanic-ash-cloud.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="waterdrop-middle.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/waterdrop-middle.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="waterdrop-night.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/waterdrop-night.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="waterdrop.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/waterdrop.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+      </file>
+      <file name="wind-miniature.png" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/assets/wind-miniature.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Card">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/components/Card/index.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="7" count="23" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="23" type="stmt"/>
+        <line num="10" count="23" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+    <package name="components.Column">
+      <metrics statements="4" coveredstatements="4" conditionals="8" coveredconditionals="8" methods="4" coveredmethods="4"/>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/components/Column/index.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="8" coveredconditionals="8" methods="4" coveredmethods="4"/>
+        <line num="4" count="11" type="stmt"/>
+        <line num="6" count="116" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="116" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="116" type="cond" truecount="4" falsecount="0"/>
+      </file>
+    </package>
+    <package name="components.Container">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/components/Container/index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+      </file>
+      <file name="styles.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/components/Container/styles.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Header">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/components/Header/index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="17" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Image">
+      <metrics statements="2" coveredstatements="2" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/components/Image/index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+        <line num="14" count="8" type="stmt"/>
+        <line num="15" count="58" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Info">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/components/Info/index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="45" count="5" type="stmt"/>
+        <line num="55" count="13" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.InfoTomorrow">
+      <metrics statements="3" coveredstatements="3" conditionals="16" coveredconditionals="16" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/components/InfoTomorrow/index.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="16" coveredconditionals="16" methods="1" coveredmethods="1"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="42" count="7" type="stmt"/>
+        <line num="44" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Margin">
+      <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/components/Margin/index.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="9" count="8" type="stmt"/>
+        <line num="10" count="162" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="162" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+    <package name="components.Row">
+      <metrics statements="4" coveredstatements="4" conditionals="8" coveredconditionals="8" methods="4" coveredmethods="4"/>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/components/Row/index.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="8" coveredconditionals="8" methods="4" coveredmethods="4"/>
+        <line num="4" count="11" type="stmt"/>
+        <line num="7" count="117" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="117" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="117" type="cond" truecount="4" falsecount="0"/>
+      </file>
+    </package>
+    <package name="components.Separator">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/components/Separator/index.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Text">
+      <metrics statements="5" coveredstatements="5" conditionals="6" coveredconditionals="6" methods="4" coveredmethods="4"/>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/components/Text/index.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="6" coveredconditionals="6" methods="4" coveredmethods="4"/>
+        <line num="5" count="11" type="stmt"/>
+        <line num="6" count="208" type="stmt"/>
+        <line num="7" count="208" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="208" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="208" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+    <package name="components.TextTemperature">
+      <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/components/TextTemperature/index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="36" count="8" type="stmt"/>
+        <line num="43" count="33" type="stmt"/>
+      </file>
+    </package>
+    <package name="store">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/store/index.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="store.modules">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="rootReducer.ts" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/store/modules/rootReducer.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="store.modules.weather">
+      <metrics statements="8" coveredstatements="8" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <file name="reducer.ts" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/store/modules/weather/reducer.ts">
+        <metrics statements="8" coveredstatements="8" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="12" count="21" type="cond" truecount="5" falsecount="0"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="48" count="16" type="stmt"/>
+      </file>
+      <file name="types.ts" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/store/modules/weather/types.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="styles">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="colors.ts" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/styles/colors.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="13" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="109" coveredstatements="109" conditionals="169" coveredconditionals="169" methods="4" coveredmethods="4"/>
+      <file name="currentHour.ts" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/utils/currentHour.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="4" type="stmt"/>
+      </file>
+      <file name="forecastIcon.ts" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/utils/forecastIcon.ts">
+        <metrics statements="99" coveredstatements="99" conditionals="163" coveredconditionals="163" methods="1" coveredmethods="1"/>
+        <line num="90" count="8" type="stmt"/>
+        <line num="95" count="120" type="cond" truecount="95" falsecount="0"/>
+        <line num="105" count="19" type="cond" truecount="2" falsecount="0"/>
+        <line num="106" count="17" type="stmt"/>
+        <line num="107" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="108" count="1" type="stmt"/>
+        <line num="113" count="1" type="stmt"/>
+        <line num="123" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="124" count="1" type="stmt"/>
+        <line num="125" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="126" count="1" type="stmt"/>
+        <line num="128" count="1" type="stmt"/>
+        <line num="140" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="141" count="1" type="stmt"/>
+        <line num="142" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="143" count="1" type="stmt"/>
+        <line num="148" count="1" type="stmt"/>
+        <line num="158" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="159" count="1" type="stmt"/>
+        <line num="160" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="161" count="1" type="stmt"/>
+        <line num="166" count="1" type="stmt"/>
+        <line num="177" count="3" type="stmt"/>
+        <line num="184" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="185" count="1" type="stmt"/>
+        <line num="189" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="190" count="1" type="stmt"/>
+        <line num="195" count="1" type="stmt"/>
+        <line num="204" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="205" count="1" type="stmt"/>
+        <line num="206" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="207" count="1" type="stmt"/>
+        <line num="209" count="1" type="stmt"/>
+        <line num="217" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="218" count="1" type="stmt"/>
+        <line num="219" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="220" count="1" type="stmt"/>
+        <line num="225" count="1" type="stmt"/>
+        <line num="236" count="11" type="stmt"/>
+        <line num="238" count="3" type="stmt"/>
+        <line num="240" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="241" count="4" type="stmt"/>
+        <line num="242" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="243" count="3" type="stmt"/>
+        <line num="245" count="1" type="stmt"/>
+        <line num="252" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="253" count="1" type="stmt"/>
+        <line num="254" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="255" count="1" type="stmt"/>
+        <line num="257" count="1" type="stmt"/>
+        <line num="262" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="263" count="1" type="stmt"/>
+        <line num="264" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="265" count="1" type="stmt"/>
+        <line num="267" count="1" type="stmt"/>
+        <line num="272" count="3" type="stmt"/>
+        <line num="275" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="276" count="1" type="stmt"/>
+        <line num="280" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="281" count="1" type="stmt"/>
+        <line num="286" count="1" type="stmt"/>
+        <line num="295" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="296" count="1" type="stmt"/>
+        <line num="300" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="301" count="1" type="stmt"/>
+        <line num="306" count="1" type="stmt"/>
+        <line num="315" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="316" count="1" type="stmt"/>
+        <line num="317" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="318" count="1" type="stmt"/>
+        <line num="323" count="1" type="stmt"/>
+        <line num="332" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="333" count="1" type="stmt"/>
+        <line num="334" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="335" count="1" type="stmt"/>
+        <line num="337" count="1" type="stmt"/>
+        <line num="349" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="350" count="1" type="stmt"/>
+        <line num="351" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="352" count="1" type="stmt"/>
+        <line num="354" count="1" type="stmt"/>
+        <line num="363" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="364" count="1" type="stmt"/>
+        <line num="365" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="366" count="1" type="stmt"/>
+        <line num="371" count="1" type="stmt"/>
+        <line num="383" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="384" count="1" type="stmt"/>
+        <line num="388" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="389" count="1" type="stmt"/>
+        <line num="394" count="1" type="stmt"/>
+        <line num="403" count="3" type="stmt"/>
+        <line num="409" count="3" type="stmt"/>
+        <line num="413" count="3" type="stmt"/>
+        <line num="416" count="3" type="stmt"/>
+        <line num="419" count="3" type="stmt"/>
+        <line num="424" count="3" type="stmt"/>
+        <line num="427" count="3" type="stmt"/>
+        <line num="429" count="7" type="stmt"/>
+      </file>
+      <file name="formatter.ts" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/utils/formatter.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="8" type="stmt"/>
+      </file>
+      <file name="period.ts" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/utils/period.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="1" count="8" type="stmt"/>
+        <line num="3" count="240" type="cond" truecount="4" falsecount="0"/>
+        <line num="5" count="240" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="240" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils.Normalize">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/utils/Normalize/index.tsx">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="16" type="stmt"/>
+        <line num="7" count="16" type="stmt"/>
+        <line num="10" count="760" type="stmt"/>
+        <line num="11" count="760" type="stmt"/>
+        <line num="14" count="16" type="stmt"/>
+        <line num="15" count="16" type="stmt"/>
+      </file>
+    </package>
+    <package name="views.DetailsOffWeeks">
+      <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <file name="Flatlist.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/views/DetailsOffWeeks/Flatlist.tsx">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="28" count="4" type="stmt"/>
+        <line num="32" count="4" type="stmt"/>
+      </file>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/views/DetailsOffWeeks/index.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+      </file>
+      <file name="styles.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/views/DetailsOffWeeks/styles.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="views.DetailsOffWeeks.List">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/views/DetailsOffWeeks/List/index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="views.Home.Loading">
+      <metrics statements="2" coveredstatements="2" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/views/Home/Loading/index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="views.Home.MainArticle">
+      <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2"/>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/views/Home/MainArticle/index.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="63" count="3" type="stmt"/>
+        <line num="65" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="views.Home.Temperature">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/views/Home/Temperature/index.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="views.Home.Tomorrow">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <file name="index.tsx" path="/Users/matheushenrique/Documents/github/desafioBuilders/src/views/Home/Tomorrow/index.tsx">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="32" count="6" type="stmt"/>
+        <line num="34" count="6" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="74" count="40" type="stmt"/>
+        <line num="88" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
