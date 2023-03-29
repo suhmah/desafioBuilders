@@ -13,5 +13,5 @@ Desafio para a seleção da seleção de desenvolvedor Sr. para empresa builders
 - Buscar previsão do tempo pelo nome da cidade.
 
 
-![plot](./readme//initial.png?| width=100)
+![plot](./readme//initial.png? | width=100)
 
