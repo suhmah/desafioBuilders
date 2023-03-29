@@ -12,3 +12,6 @@ Desafio para a seleção da seleção de desenvolvedor Sr. para empresa builders
 - Visualiazr previsão do tempo dos próximos 5 dias.
 - Buscar previsão do tempo pelo nome da cidade.
 
+
+![plot](./readme//initial.png)
+
