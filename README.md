@@ -343,7 +343,11 @@ detox test --configuration android.emu.debug
 
 
 
-https://user-images.githubusercontent.com/38407958/228703910-48e982ee-a187-4dff-b72c-32be594caa9d.mp4
+https://user-images.githubusercontent.com/38407958/228709200-5fb22c75-d0d2-428b-acc9-4a6a1c898037.mp4
+
+
+
+
 <br/>
 note: clideo.com foi um serviço usado para comprimir o vídeo. o vídeo original está em `readme/testEnd2End`
 
