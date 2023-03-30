@@ -5,8 +5,8 @@ import {getWeather} from '../store/modules/weather/actions';
 const mock = {};
 
 export const getLocation = () => {
-  if (mock.lat) {
-    store.dispatch(getWeather({lat: mock.lat, lon: mock.lon}));
+  if (mock?.lat) {
+    store.dispatch(getWeather({lat: mock?.lat, lon: mock?.lon}));
   } else {
     Geolocation.getCurrentPosition(info => {
       store.dispatch(
