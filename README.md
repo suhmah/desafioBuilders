@@ -341,3 +341,9 @@ rodar os teste
 ```bash
 detox test --configuration android.emu.debug
 ```
+
+
+
+https://user-images.githubusercontent.com/38407958/228703910-48e982ee-a187-4dff-b72c-32be594caa9d.mp4
+
+
