@@ -2,7 +2,7 @@ import Geolocation from '@react-native-community/geolocation';
 import store from '../store';
 import {getWeather} from '../store/modules/weather/actions';
 
-const mock = {lat: -7.163765, lon: -48.399673};
+const mock = {};
 
 export const getLocation = () => {
   if (mock.lat) {
