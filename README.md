@@ -1,11 +1,10 @@
 # Desafio Builders
 
-Desafio para a seleção da seleção de desenvolvedor Sr. para empresa builders.
+Desafio para a seleção da seleção de desenvolvedor Sr. para empresa builders que consistiu em uma aplicação que apresenta a previsão do tempo baseado na geolocalização. Aplicado testes end 2 end e testes de unidade.
 <br/>
 <br/>
 
 ## Funcionalidades
-
 - Carregar previsão do tempo baseado na localização do dispositivo
 - Visiualizar previsão do tempo atual
 - Visualizar a previsão do tempo em horas do dia seguinte
@@ -345,5 +344,6 @@ detox test --configuration android.emu.debug
 
 
 https://user-images.githubusercontent.com/38407958/228703910-48e982ee-a187-4dff-b72c-32be594caa9d.mp4
-
+<br/>
+note: clideo.com foi um serviço usado para comprimir o vídeo. o vídeo original está em `readme/testEnd2End`
 
