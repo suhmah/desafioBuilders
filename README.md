@@ -286,6 +286,36 @@ Esta função se encarrega de dizer qual é o período atual baseado na hora
 
 Estas são as duas principais funções responsáveis por deixar a aplicação mais bonita!
 
+
+# Função normalize
+
+Esta função se encarrega de cuidar da diferença entre a taxa de pixel que existe entre o iphone e o android, sendo no IOS bem superior. Esta função apenas recebe um número q representa por exemplo o font-size de um texto e a partir dele calcula seu valor proporcional para aquele dispositivo. Esta calculo é baseado na largura do dispositivo dividigo por uma largura de base, geralmente usado no próprio figma.
+
+```jsx
+import { Dimensions, PixelRatio  } from 'react-native';
+
+export const { width: SCREEN_WIDTH, height: SCREEN_HEIGHT } =
+  Dimensions.get('window');
+
+const wscale: number = SCREEN_WIDTH / 375;
+
+export default function normalize(size?: number,): number {
+    const newSize =  size * wscale;
+    return PixelRatio.roundToNearestPixel(newSize);
+
+}
+export const WIDTH = SCREEN_WIDTH;
+export const HEIGHT = SCREEN_HEIGHT;
+```
+
+Aplicação:
+```jsx
+export const Text = styled.Text.attrs({allowFontScaling: false})<IText>`
+  font-size: ${normalize(12)}px;
+`;
+```
+
+
 # Testes unitários
 
 Para rodar os teste de unidade basta rodar:
